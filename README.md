@@ -1,2 +1,2 @@
 # verbose-potato
-following the guide
+im still following the guide...
